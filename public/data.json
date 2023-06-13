@@ -1,0 +1,166 @@
+{
+  
+  
+  
+  "projects":[
+  {
+    "id": "Sub Inspector (Overseer)",
+    "titles": "ITBP",
+    "appointment": "10th/Diploma",
+    "price":"₹35,400 - ₹1,12,400",
+    "vacancy":"37",
+    "applybefore":"14-08-2022",
+    "agelimit":"20 - 25",
+    "location":"All India",
+    "jobcategory":"CAPFs",
+    "posttype":"Permanant"    
+  },{
+    "id": "Head Constable (AWO/TPO)",
+    "titles": "SSC",
+    "appointment": "10+2/NTC",
+    "price":"₹25,500 - ₹81,100",
+    "vacancy":"857",
+    "applybefore":"29-07-2022",
+    "agelimit":"18 - 27",
+    "location":"Delhi",
+    "jobcategory":"Police",
+    "posttype":"Permanant"
+    
+  },{
+    "id": "Constable Driver DP",
+    "titles": "SSC",
+    "appointment": "10+2",
+    "price":"₹21,700 - ₹69,100",
+    "vacancy":"1411",
+    "applybefore":"29-07-2022",
+    "agelimit":"21 - 30",
+    "location":"Delhi",
+    "jobcategory":"Police",
+    "posttype":"Permanant"
+    
+  },{
+    "id": "Agniveer SSR",
+    "titles": "Indian Navy ",
+    "appointment": "10+2",
+    "price":"₹30,000 - ₹40,000",
+    "vacancy":"2800",
+    "applybefore":"22-07-2022",
+    "agelimit":"17.5 - 23",
+    "location":"All India",
+    "jobcategory":"Defence",
+    "posttype":"Defence"
+    
+  },{
+    "id": "Group C Posts",
+    "titles": "Indian Army",
+    "appointment": "10th/10+2",
+    "price":"₹18,000 - ₹81,100",
+    "vacancy":"32",
+    "applybefore":"19-07-2022",
+    "agelimit":"18 - 25",
+    "location":"All India",
+    "jobcategory":"Defence",
+    "posttype":"Permanant"    
+    },{
+      "id": "Clerks",
+      "titles": "IBPS",
+      "appointment": "Graduate",
+      "price":"₹19,900 - ₹47,920",
+      "vacancy":"6035",
+      "applybefore":"21-07-2022",
+      "agelimit":"20 - 28",
+      "location":"All India",
+      "jobcategory":"Bank",
+      "posttype":"Permanant"
+      
+    }
+  ,{
+    "id": "Apprentice ICF",
+    "titles": "Indian Railways",
+    "appointment": "10th",
+    "price":"₹6,000 - ₹7,000",
+    "vacancy":"876",
+    "applybefore":"26-07-2022",
+    "agelimit":"15 - 24",
+    "location":"Tamil Nadu",
+    "jobcategory":"Railways",
+    "posttype":"Apprenticeship"
+  },{
+    "id": "TA Officer",
+    "titles": "Indian Army",
+    "appointment": "Degree",
+    "price":"₹56,100 - ₹1,77,500",
+    "vacancy":"13",
+    "applybefore":"30-07-2022",
+    "agelimit":"18 - 42",
+    "location":"All India",
+    "jobcategory":"Defence",
+    "posttype":"Permanant"
+    
+  },{
+    "id": "Group C Posts",
+    "titles": "BARC",
+    "appointment": "10th",
+    "price":"₹18,000 - ₹25,500",
+    "vacancy":"89",
+    "applybefore":"31-07-2022",
+    "agelimit":"18 - 32",
+    "location":"All India",
+    "jobcategory":"Other",
+    "posttype":"Permanant"
+    
+  },{
+    "id": "Scientist 'B'",
+    "titles": "DRDO",
+    "appointment": "B.Tech/Degree/PG",
+    "price":"₹56,100 - ₹88,000",
+    "vacancy":"630",
+    "applybefore":"16-07-2022",
+    "agelimit":"20.5 - 40",
+    "location":"All India",
+    "jobcategory":"Defence",
+    "posttype":"Permanant"
+    
+  },{
+    "id": "SSR & MR",
+    "titles": "ndian Navy",
+    "appointment": "10th/10+2",
+    "price":"₹30,000 - ₹40,000",
+    "vacancy":"NP",
+    "applybefore":"30-07-2022",
+    "agelimit":"17.5 - 23",
+    "location":"All India",
+    "jobcategory":"Defence",
+    "posttype":"Agniveer"
+    
+  },{
+    "id": "GD, Tech, CLK, TDN",
+    "titles": "Indian Army",
+    "appointment": "8/10th/10+2/ITI/Diploma",
+    "price":"₹30,000 - ₹40,000",
+    "vacancy":"NP",
+    "applybefore":"NP",
+    "agelimit":"17.5 - 23",
+    "location":"All India",
+    "jobcategory":"Defence",
+    "posttype":"Agniveer"
+    
+  },{
+    "id": "Group B & C",
+    "titles": "Border Security force",
+    "appointment": "10th/Diploma/Degree",
+    "price":"₹21,700 - ₹1,12,400",
+    "vacancy":"110",
+    "applybefore":"12-07-2022",
+    "agelimit":"18 - 30",
+    "location":"All India",
+    "jobcategory":"CAPFs",
+    "posttype":"Permanant"
+    
+  }
+
+
+
+
+]
+}

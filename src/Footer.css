@@ -1,0 +1,17 @@
+.footer{
+  background-color: #17161b;
+  padding: 60px;
+}
+.row img {
+  width: 120px;
+  height: 25px;
+  margin-bottom: 30px;
+}
+h4{
+  margin-bottom: 20px;
+  color: rgb(85, 85, 85);
+}
+.nav-link {
+  padding: 0;
+  margin: 0;
+}
