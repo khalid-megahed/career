@@ -34,3 +34,7 @@ export default Home;
 //             Home
 // 
 // Fristsection   Lastsection
+// ....
+
+
+// ..................
